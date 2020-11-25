@@ -56,7 +56,7 @@
     "react-tilt": "^0.1.4",
     "twin.macro": "^1.12.1",
     "typeface-fira-sans": "^1.1.13",
-    "use-sound": "^2.0.0"
+    "use-sound": "^2.0.1"
   },
   "devDependencies": {
     "@babel/plugin-proposal-decorators": "^7.12.1",
