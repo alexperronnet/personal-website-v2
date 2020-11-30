@@ -54,7 +54,7 @@
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
     "react-tilt": "^0.1.4",
-    "twin.macro": "^1.12.1",
+    "twin.macro": "^2.0.3",
     "typeface-fira-sans": "^1.1.13",
     "use-sound": "^2.0.0"
   },
