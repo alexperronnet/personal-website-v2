@@ -63,6 +63,6 @@
     "@emotion/babel-plugin-jsx-pragmatic": "^0.1.5",
     "@upstatement/eslint-config": "^0.4.3",
     "@upstatement/prettier-config": "^0.3.0",
-    "prettier": "^2.2.0"
+    "prettier": "^2.2.1"
   }
 }
